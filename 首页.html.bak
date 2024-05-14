@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>首页</title>
+
+  </table>
+<table id="首页信息" border="1">
+  <tr>
+<td>首页</td>
+<td>最新信息</td>
+<td>图片新闻</td>
+<td>视频介绍</td>
+<td>航天知识</td>
+<td>留言互动</td>
+  </tr>
+<tr><td rowspan="7"><img src="images/1.jpg"  width="650px" height="800px"></td>
+</tr>
+<tr> <td colspan="6"><h5>今日关注 SpaceNews<h5></td></tr>
+
+<tr><td colspan="6"><h5><a href="任务.html">2024年中国载人航天工程将统筹推进空间站应用与发展和载人月球探测两大任务</h5>
+<h6> 2024年，中国载人航天工程将统筹推进空间站应用与发展和载人月球探测两大任务，向着建设航天强国的奋斗目标迈出坚实步伐。</a></h6></td></tr>
+
+<tr><td colspan="6"><a href="”神十七“乘组出差进度条.html"><h5>神十七”乘组出差进度条：■■■■■□</h5>
+<h6>目前，神舟十七号航天员乘组太空“出差”已满5个月，这5个月的时间可谓是收获满满。</h6></td></tr>
+
+<tr><td colspan="6"><a href="星舰.html"><h5>“星舰”第三次试飞将进行多项技术验证</h5>
+<h6>美国太空探索技术公司（SpaceX）于3月6日宣布，其新一代超重型运载火箭“星舰”（Starship）的第三次试飞最快将在3月14日进行，目前正等待美国联邦航空管理局（FAA）的批准。“星舰”是美国国家航空航天局</h6></td></tr></a>
+
+<tr><td colspan="6"><a href="2023年7月，中国载人登月初步方案公布.html"><h5>2023年7月，中国载人登月初步方案公布。</h5>
+<h6>中国载人航天工程办公室副总设计师张海联表示，我国计划在2030年前实现载人登陆月球开展科学探索，其后将探索建造月球科研试验站，开展系统、连续的月球探测和相关技术试验验证。</h6></td></tr>
+
+<tr><td colspan="6"><a href="长征系列运载火箭实现第500次发射.html"><h5>我国长征系列运载火箭实现第500次发射</h5>
+<h6>在第五个百次发射中，长征火箭发射成功率达100%，并圆满完成了中国空间站建造等重大航天工程的发射任务。</h6></td></tr>
+</table>
+ </head>
+ <body>
+ 
+ </body>
+</html>

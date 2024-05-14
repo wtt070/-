@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>星舰</title>
+  <link href="css/导航.css" rel="stylesheet" type="text/css">
+ </head>
+ <body>
+  <div class="banner" ><img src="images/d3.gif"></div>
+	<div class="menu">
+		<ul class="center">
+			<li><a href="">首页</a></li>
+			<li><a href="最新信息.html">最新信息</a></li>
+			<li><a href="图片新闻.html">图片新闻</a></li>
+			<li><a href="视频介绍.html">视频介绍</a></li>
+			<li><a href="航天知识.html">航天知识</a></li>
+			<li><a href="互动留言.html">互动留言</a></li>
+		 </ul>
+	</div>
+<div id="text">
+<p><h1 style="text-align:center;"><b>“星舰”第三次试飞将进行多项技术验证</b></h1></p><hr>
+<p>发布日期: 2024-03-07	信息来源: 中国载人航天工程网</p>
+<p>美国太空探索技术公司（SpaceX）于3月6日宣布，其新一代超重型运载火箭“星舰”（Starship）的第三次试飞最快将在3月14日进行，目前正等待美国联邦航空管理局（FAA）的批准。“星舰”是美国国家航空航天局（NASA）“载人着陆系统”（HLS）计划使用的月球着陆器，此前于2023年进行的两次试飞均未获得成功。第三次试飞的目的包括两级成功上升点火、打开和关闭“星舰”有效载荷舱门、在上级助推器滑行阶段进行推进剂转移演示、“猛禽”（Raptor）发动机首次在轨二次点火以及“星舰”的可控再入。</p>
+<img src="images/7.png" class="centerimage">
+<p>“星舰”即将进行第三次试飞</p>
+<pre>                                                                                                                                                        （责任编辑：刘泽康）</pre>
+</div>
+ </body>
+</html>
